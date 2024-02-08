@@ -1,0 +1,159 @@
+nav{ display: flex;
+    justify-content:space-between;
+    align-items: center;
+    border:  solid 5px;
+    padding: 10px;
+    background-image: url(https://e0.pxfuel.com/wallpapers/727/764/desktop-wallpaper-ivanka-kostova-on-jardim-most-beautiful-gardens-beautiful-gardens-beautiful-flowers-garden-amazing-garden.jpg );
+
+}
+nav .load img{ width:100px;
+    height: 100px;
+
+}
+nav ul{ display: flex;
+    list-style: none;
+    justify-content:space-between;
+    width: 50%;
+    
+
+}
+nav ul li{ font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+nav ul li a:hover{cursor: pointer;
+    color: blue;
+    
+    
+
+}
+nav ul li a{ text-decoration: none;
+    color: black;
+    
+}
+.bt1{width:100px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: chocolate;
+}
+.bt2{width:100px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: chocolate;
+
+}
+.bt1:hover{ cursor:pointer;
+    color: blue;
+
+
+}
+.bt2:hover{ cursor:pointer;
+    color: blue;
+}
+.container{ border:solid 5px;
+    margin-top: 20px;
+    display: flex;
+
+    
+
+}
+.box1{ border: solid 3px;
+    flex: 1;
+    color:red;
+    margin: 5px;
+
+}
+.box2{ border: solid 3px;
+    flex: 0.8;
+    margin: 5px;
+    padding-left: 5px;
+    background-image: url( https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2023-02/nba-canada--c0420d21-96b8-4990-9405-dfd4ebea2ea8.jpeg?itok=DlRW6iv_);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box3{ border: solid 3px;
+    color: blue;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 5px;
+    padding: 10px;
+    margin-right: 5px;
+    align-items: center;
+    background-image: url(https://pixewall.com/wp-content/uploads/2023/04/Night-Sky-Clouds-Sunset-Scenery-4k-Wallpapers-scaled.jpg );
+
+
+}
+.box4{ flex: none;
+
+}
+.box4 img{ width: 210px;
+    height: 250px;
+   
+}
+
+.box5{ margin-left: 15px;
+
+}
+.box5 button{ background-color: blue;
+    color: chartreuse;
+}    
+.box6{ border: 3px solid;
+    color: chocolate;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding-bottom: 5px;
+    align-items: center;
+  background-image: url(https://www.creativefabrica.com/wp-content/uploads/2023/06/02/Beautiful-Landscape-Beach-White-Sand-Ocean-Boat-Sunset-HD-Wallpaper-71179562-1.png );
+
+}
+.box7{ flex: none;
+    margin: 5px;
+    
+
+}
+.box7 img{ width: 215px;
+    height: 250px;
+
+}
+.box8{ margin-left: 15px;
+
+}
+.box5 h1{ color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    
+
+}
+.box5 p{ color: brown;
+    font-size: 23px;
+
+}
+.box8 h1{ color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+}
+.box8 p{ color: crimson;
+    font-size: 23px;
+
+}
+.box8 button{ background-color: red;
+
+}
+.box2 button{ background-color: crimson;
+    width:99.8%;
+    cursor: pointer;
+   
+}
+.box2 p{ color: darkorange;
+
+}
+.box2 h1{ color: darkorange;
+
+}
+.box10{ text-align: center;
+    margin-top: 100px;
+
+}
